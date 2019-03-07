@@ -1,0 +1,26 @@
+{
+    "name": "尋找台灣電子書",
+    "version": "0.1",
+    "description": "Search an ebook is available in Taiwan.",
+    "permissions": ["contextMenus", "tabs"],
+    "manifest_version": 2,
+    "icons": {
+        "16": "images/ebook_icon_16.png",
+        "32": "images/ebook_icon_32.png",
+        "48": "images/ebook_icon_48.png",
+        "128": "images/ebook_icon_128.png"
+    },
+    "background": {
+        "page": "background.html",
+        "persistent": true
+    },
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/ebook_icon_16.png",
+            "32": "images/ebook_icon_32.png",
+            "48": "images/ebook_icon_48.png",
+            "128": "images/ebook_icon_128.png"
+        }
+    }
+}
