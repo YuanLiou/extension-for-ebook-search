@@ -22,5 +22,13 @@
             "48": "images/ebook_icon_48.png",
             "128": "images/ebook_icon_128.png"
         }
-    }
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["content_script.js"],
+            "run_at": "document_idle",
+            "all_frames": true
+        }
+    ]
 }
