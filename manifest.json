@@ -1,5 +1,5 @@
 {
-    "name": "尋找台灣電子書",
+    "name": "台灣電子書搜尋",
     "version": "1.0",
     "description": "搜尋書籍是否有台灣電子版",
     "permissions": ["contextMenus", "tabs"],
