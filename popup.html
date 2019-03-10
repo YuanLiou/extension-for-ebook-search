@@ -1,9 +1,20 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style></style>
+        <link href="popup.css" rel="stylesheet" />
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <div class="content">
+            <h3>搜尋電子書：</h3>
+            <div class="flexbox_container">
+                <input id="search_box" type="text" placeholder="書名或 ISBN"></input>
+                <button id="search_button">搜尋</button>
+            </div>
+        </div>
+        <div class="footer">
+            聯絡我們 - <a href="https://twitter.com/TaiwanEBook" target="_blank">推特</a> -
+             <a href="https://taiwan-ebook-lover.github.io/" target="_blank">台灣電子書首頁</a>
+        </div>
+        <script src="popup.js"></script>
     </body>
 </html>

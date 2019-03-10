@@ -1,0 +1,49 @@
+body {
+    min-width: 320px;
+    margin: 0px;
+}
+
+
+.content {
+    margin: 15px 30px 15px 30px;
+}
+
+
+.flexbox_container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#search_box {
+    flex: 70%;
+}
+
+#search_button {
+    margin-left: 4px;
+}
+
+.footer {
+    color: #636363;
+    background-color: #F0F0F0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 11px;
+}
+
+
+/* link */
+a:link {
+    color: #4285F4;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4285F4;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #4285F4;
+    text-decoration: none;
+}

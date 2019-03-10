@@ -1,7 +1,7 @@
 {
     "name": "尋找台灣電子書",
     "version": "0.1",
-    "description": "Search an ebook is available in Taiwan.",
+    "description": "搜尋書籍是否有台灣電子版",
     "permissions": ["contextMenus", "tabs"],
     "manifest_version": 2,
     "icons": {
