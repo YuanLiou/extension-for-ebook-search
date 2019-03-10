@@ -1,6 +1,6 @@
 {
     "name": "尋找台灣電子書",
-    "version": "0.1",
+    "version": "1.0",
     "description": "搜尋書籍是否有台灣電子版",
     "permissions": ["contextMenus", "tabs"],
     "manifest_version": 2,
