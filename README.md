@@ -15,4 +15,6 @@ A simple Chrome/Firefox extension to searching Taiwan's ebooks.
 [Firefox version](https://addons.mozilla.org/zh-TW/firefox/addon/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E6%9B%B8%E6%90%9C%E5%B0%8B/) <br>
 Get this Extension for 🦊 Firefox
 
-Chrome version is not available yet
+[Chrome version](https://chrome.google.com/webstore/detail/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%AD%90%E6%9B%B8%E6%90%9C%E5%B0%8B/abcienkfmkgdkpokpldaimpjjjedknkc) <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Icono_web_store.png" /><br/>
+Available in the chrome web store
